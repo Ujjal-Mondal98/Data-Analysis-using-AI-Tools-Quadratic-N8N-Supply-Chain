@@ -63,7 +63,7 @@ This project is part of a learning journey with **[Codebasics](https://codebasic
 
 ## 🔗 Additional Links  
 
-- 📄 **LinkedIn Post** → [Add link here]  
+- 📄 **LinkedIn Post** → [[Click here](https://www.linkedin.com/posts/ujjalmondal_dataanalytics-ai-supplychain-activity-7370066499123916800-zhZV?utm_source=share&utm_medium=member_desktop&rcm=ACoAADdvak8B0Zwmdf3JbEXWL7tzIaAem94O4pQ)]  
 - 🎥 **YouTube Video Presentation** → [[click here](https://www.youtube.com/watch?v=335_8gUfu8U)]  
 - 📧 **Contact Email** → [ujjalmondal.business@gmail.com]  
 
